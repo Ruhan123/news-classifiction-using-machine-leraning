@@ -1,0 +1,14 @@
+numpy 
+pandas 
+matplotlib
+seaborn
+
+following algorithm  for prediction
+ MultinomialNB
+DecisionTreeClassifier
+ SGDClassifier
+ GridSearchCV
+ 
+confusiom matrix is summary predicted result
+ confusion_matrix
+ CountVectorizer
